@@ -47,7 +47,7 @@
 						<h5>Kontaktai</h5><br>
 						<p><i>Baras</i> <b>Flomby</b></p>
 						<p><i>Adresas</i> : <b>Kalvarijų g. 125</b>, Vilnius 08221, Lithuania</p>
-						<p><i>Tel. Nr.</i> : <b>+370 67869393</b></p>
+						<p><i>Tel. Nr.</i> : <a href="tel:+370 67869393"><b>+370 67869393</b></a></p>
 						<p><i>El. Paštas</i> : <b>baras@flomby.lt</b></p>
 					</div>
 				</div>
